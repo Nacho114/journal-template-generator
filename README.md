@@ -6,7 +6,7 @@ This script creates a structured directory for a specified year with monthly and
 ## How to Run
 
 ```bash
-python3 python generate-year-journal.py
+python3 generate-year-journal.py
 ```
 
 ## Input
